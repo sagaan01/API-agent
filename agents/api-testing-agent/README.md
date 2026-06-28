@@ -55,3 +55,10 @@ This agent is designed to test any HTTP API and maximize functional, negative, a
 - Scenario coverage report
 - Security and resilience findings
 - Prioritized defect summary
+
+## Example open API execution
+
+A completed sample run against a public OpenAPI service is available in:
+
+- `agents/api-testing-agent/examples/fakerest-openapi-test-report.md`
+- `agents/api-testing-agent/examples/fakerest-coverage-matrix.md`
